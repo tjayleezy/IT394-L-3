@@ -2,3 +2,4 @@
 IT394 Demo
 
 Demo. Yo it's Friday
+* added median func
